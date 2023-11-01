@@ -20,7 +20,7 @@ MakeWindow({
 })
 
 MinimizeButton({
-  Image = "https://create.roblox.com/dashboard/creations/marketplace/15235494622/configure",
+  Image = "rbxassetid://15235494622",
   Size = {40, 40},
   Color = Color3.fromRGB(10, 10, 10),
   Corner = true,
